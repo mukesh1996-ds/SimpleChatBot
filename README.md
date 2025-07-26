@@ -1,4 +1,3 @@
-````markdown
 # 📄 PDF ChatBot with RAG (Retrieval-Augmented Generation)
 
 A powerful AI-powered chatbot system built on top of PDF document understanding using **Langchain**, **Hugging Face embeddings**, **FAISS vector store**, and **CTransformers**. The application enables intelligent querying of PDF documents via a simple **Streamlit** interface.
