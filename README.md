@@ -92,7 +92,7 @@ A powerful AI-powered chatbot system built on top of PDF document understanding 
 
 ## 📸 Demo Screenshot
 
-![PDF Chatbot Streamlit UI](https://via.placeholder.com/800x400.png?text=PDF+ChatBot+Demo)
+![PDF Chatbot Streamlit UI](https://github.com/mukesh1996-ds/SimpleChatBot/blob/main/Image/SS.png)
 
 ---
 
