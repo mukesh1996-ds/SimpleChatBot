@@ -42,8 +42,8 @@ A powerful AI-powered chatbot system built on top of PDF document understanding 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/pdf-chatbot.git
-   cd pdf-chatbot
+   git clone https://github.com/mukesh1996-ds/SimpleChatBot.git
+   cd SimpleChatBot
    ```
 
 2. **Create virtual environment & activate**
